@@ -1,0 +1,6 @@
+﻿facebook.com, 611698342796297, DIRECT, c3e20eee3f780d68
+facebook.com, 823124382377091, DIRECT, c3e20eee3f780d68
+facebook.com, 611698342796297, RESELLER, c3e20eee3f780d68
+facebook.com, 823124382377091, RESELLER, c3e20eee3f780d68
+
+adx :google.com, pub-9591556131971840, DIRECT, f08c47fec0942fa0
